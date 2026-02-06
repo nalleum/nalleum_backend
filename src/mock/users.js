@@ -22,7 +22,7 @@ const users = [
     nickname: "이서준",
     targetCompanies: ["쿠팡"],
     targetRole: "Backend",
-    interestKeywords: ["물류", "추천", "대규모 트래픽"],
+    interestKeywords: ["물류", "추천", "대규모 트래픽", "캐시"],
     pushTime: "12:30",
   },
 ];
