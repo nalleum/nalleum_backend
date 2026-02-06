@@ -42,7 +42,7 @@ function buildPrompt(body) {
     `이름: ${name}\n` +
     `희망기업: ${company}\n` +
     `희망직종: ${role}\n` +
-    `전공: ${major}\n` +
+    `관심산업: ${major}\n` +
     `자격증: ${certifications}\n\n` +
     "[요구사항]\n" +
     "- 질문은 각각 한 문장\n" +
