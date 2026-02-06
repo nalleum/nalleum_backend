@@ -58,7 +58,7 @@ API 응답 구성
 - **Framework:** Express (or Fastify)
 - **Language:** TypeScript
 - **AI:** OpenAI API (GPT-4o mini)
-- **Database:** Firebase Firestore
+- **Database:** Firebase Firestore (해커톤 MVP는 in-memory mock 사용)
 - **Push Notification:** Firebase Cloud Messaging (FCM)
 - **Deploy:** Serverless / Cloud Functions (선택)
 
